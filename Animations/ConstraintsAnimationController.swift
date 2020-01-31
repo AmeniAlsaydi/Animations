@@ -9,12 +9,11 @@
 import UIKit
 
 class ConstraintsAnimationController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.backgroundColor = .black
-        self.title = "item1"
+        view.backgroundColor = .blue
 
     }
 
